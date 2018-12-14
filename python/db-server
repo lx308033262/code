@@ -1,0 +1,13 @@
+navi_master_01    192.168.2.4	192.168.2.6	navi_db
+navi_master_02    192.168.2.5	192.168.2.6	navi_db
+navi_slave_01     192.168.2.7		   	navi_db
+navi_slave_02     192.168.2.8		   	navi_db
+user_master_01    192.168.2.9	192.168.2.11	cinf_db,scfg_db,osp,imop_db
+user_master_02    192.168.2.10	192.168.2.11	cinf_db,scfg_db,osp,imop_db
+user_slave_01     192.168.2.12			cinf_db,scfg_db,osp,imop_db
+manage_master_01  192.168.2.13	192.168.2.15	css_db
+manage_master_02  192.168.2.14	192.168.2.15	css_db
+sa_master_01      192.168.2.16	192.168.2.18	ioss_db,ims_schedule,imsdb
+sa_master_02      192.168.2.17	192.168.2.18	ioss_db,ims_schedule,imsdb
+boss_master_01    192.168.2.19	192.168.2.21	boss_db,ics_db
+boss_master_02    192.168.2.20	192.168.2.21	boss_db,ics_db

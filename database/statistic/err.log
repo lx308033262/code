@@ -1,0 +1,8 @@
+./my_admin_tool.py:198: Warning: The user specified as a definer ('ibmpdev'@'%') does not exist
+  cursor.execute(cmd)
+./my_admin_tool.py:198: Warning: The user specified as a definer ('ospdev'@'%') does not exist
+  cursor.execute(cmd)
+./my_admin_tool.py:198: Warning: The user specified as a definer ('ibmpdev'@'%') does not exist
+  cursor.execute(cmd)
+./my_admin_tool.py:198: Warning: The user specified as a definer ('ospdev'@'%') does not exist
+  cursor.execute(cmd)

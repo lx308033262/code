@@ -1,0 +1,166 @@
+[Wed Nov 20 14:09:15 2013] e_list([()],[{}]) executed 
+[Wed Nov 20 14:09:48 2013] e_exec([('show tables from test', 'EUT-waice')],[{}]) executed 
+[Wed Nov 20 14:09:48 2013] e_conn([('EUT-waice',)],[{'mode': 'noninteractive'}]) executed 
+[Wed Nov 20 14:10:07 2013] e_exec([('show tables from test', 'EUT-waice')],[{}]) executed 
+[Wed Nov 20 14:10:07 2013] e_conn([('EUT-waice',)],[{'mode': 'noninteractive'}]) executed 
+[Wed Nov 20 14:25:57 2013] check_slave_stat([()],[{}]) executed 
+[Wed Nov 20 14:26:00 2013] e_list([()],[{}]) executed 
+[Wed Nov 20 14:26:03 2013] e_exec([('show tables from test', 'EUT-waice')],[{}]) executed 
+[Wed Nov 20 14:26:03 2013] e_conn([('EUT-waice',)],[{'mode': 'noninteractive'}]) executed 
+[Wed Nov 20 14:26:40 2013] e_exec([('show tables from test', 'EUT-waice')],[{}]) executed 
+[Wed Nov 20 14:26:40 2013] e_conn([('EUT-waice',)],[{'mode': 'noninteractive'}]) executed 
+[Wed Nov 20 14:26:58 2013] e_exec([('show tables from test', 'EUT-waice')],[{}]) executed 
+[Wed Nov 20 14:26:58 2013] e_conn([('EUT-waice',)],[{'mode': 'noninteractive'}]) executed 
+[Wed Nov 20 14:27:21 2013] check_slave_stat([()],[{}]) executed 
+[Wed Nov 20 14:27:22 2013] e_exec([('show tables from test', 'EUT-waice')],[{}]) executed 
+[Wed Nov 20 14:27:22 2013] e_conn([('EUT-waice',)],[{'mode': 'noninteractive'}]) executed 
+[Wed Nov 20 14:28:11 2013] e_exec([('show tables from test', 'EUT-waice')],[{}]) executed 
+[Wed Nov 20 14:28:11 2013] e_conn([('EUT-waice',)],[{'mode': 'noninteractive'}]) executed 
+[Wed Nov 20 14:29:04 2013] e_exec([('show tables from test', 'EUT-waice')],[{}]) executed 
+[Wed Nov 20 14:29:04 2013] e_conn([('EUT-waice',)],[{'mode': 'noninteractive'}]) executed 
+[Wed Nov 20 14:30:15 2013] e_exec([('show tables from test', 'EUT-waice')],[{}]) executed 
+[Wed Nov 20 14:30:15 2013] e_conn([('EUT-waice',)],[{'mode': 'noninteractive'}]) executed 
+[Wed Nov 20 14:41:27 2013] e_list([()],[{}]) executed 
+[Wed Nov 20 14:43:55 2013] e_exec([('show tables from test', 'EUT-waice')],[{}]) executed 
+[Wed Nov 20 14:43:55 2013] e_conn([('EUT-waice',)],[{'mode': 'noninteractive'}]) executed 
+[Wed Nov 20 14:44:22 2013] e_exec([('show tables from test', 'EUT-waice')],[{}]) executed 
+[Wed Nov 20 14:44:22 2013] e_conn([('EUT-waice',)],[{'mode': 'noninteractive'}]) executed 
+[Wed Nov 20 14:45:47 2013] e_list([()],[{}]) executed 
+[Wed Nov 20 14:45:49 2013] e_exec([('show tables from test', 'EUT-waice')],[{}]) executed 
+[Wed Nov 20 14:45:49 2013] e_conn([('EUT-waice',)],[{'mode': 'noninteractive'}]) executed 
+[Wed Nov 20 14:50:37 2013] e_exec([('show tables from test', 'EUT-waice')],[{}]) executed 
+[Wed Nov 20 14:50:37 2013] e_conn([('EUT-waice',)],[{'mode': 'noninteractive'}]) executed 
+[Wed Nov 20 15:02:54 2013] e_list([()],[{}]) executed 
+[Wed Nov 20 15:03:14 2013] e_exec([('select * from osp_admin', 'EUT-waice')],[{}]) executed 
+[Wed Nov 20 15:03:14 2013] e_conn([('EUT-waice',)],[{'mode': 'noninteractive'}]) executed 
+[Wed Nov 20 15:03:30 2013] e_exec([('select * from osp.osp_admin', 'EUT-waice')],[{}]) executed 
+[Wed Nov 20 15:03:30 2013] e_conn([('EUT-waice',)],[{'mode': 'noninteractive'}]) executed 
+[Wed Nov 20 15:03:44 2013] e_exec([('select * from osp.osp_admin', 'EUT-waice')],[{}]) executed 
+[Wed Nov 20 15:03:44 2013] e_conn([('EUT-waice',)],[{'mode': 'noninteractive'}]) executed 
+[Wed Nov 20 15:24:57 2013] e_exec([('show tables from test', 'EUT-waice')],[{}]) executed 
+[Wed Nov 20 15:24:57 2013] e_conn([('EUT-waice',)],[{'mode': 'noninteractive'}]) executed 
+[Wed Nov 20 15:25:03 2013] e_exec([('show tables from test', 'EUT-waice')],[{}]) executed 
+[Wed Nov 20 15:25:03 2013] e_conn([('EUT-waice',)],[{'mode': 'noninteractive'}]) executed 
+[Wed Nov 20 15:25:16 2013] e_exec([('show * from test.t', 'EUT-waice')],[{}]) executed 
+[Wed Nov 20 15:25:16 2013] e_conn([('EUT-waice',)],[{'mode': 'noninteractive'}]) executed 
+[Wed Nov 20 15:25:35 2013] e_exec([('select * from test.t', 'EUT-waice')],[{}]) executed 
+[Wed Nov 20 15:25:35 2013] e_conn([('EUT-waice',)],[{'mode': 'noninteractive'}]) executed 
+[Wed Nov 20 15:27:44 2013] e_list([()],[{}]) executed 
+[Wed Nov 20 15:27:53 2013] e_list([()],[{}]) executed 
+[Wed Nov 20 15:29:48 2013] e_exec([('select * from osp.osp_admin', 'EUT-waice')],[{}]) executed 
+[Wed Nov 20 15:29:48 2013] e_conn([('EUT-waice',)],[{'mode': 'noninteractive'}]) executed 
+[Wed Nov 20 15:31:33 2013] e_conn([('EUT-waice',)],[{}]) executed 
+[Wed Nov 20 15:31:54 2013] e_conn([('EUT-waice',)],[{}]) executed 
+[Wed Nov 20 15:34:34 2013] e_exec([('select * from osp.osp_admin', 'EUT-waice')],[{}]) executed 
+[Wed Nov 20 15:34:34 2013] e_conn([('EUT-waice',)],[{'mode': 'noninteractive'}]) executed 
+[Wed Nov 20 15:37:33 2013] e_exec([('select * from osp.osp_admin', 'EUT-waice')],[{}]) executed 
+[Wed Nov 20 15:37:33 2013] e_conn([('EUT-waice',)],[{'mode': 'noninteractive'}]) executed 
+[Wed Nov 20 15:39:13 2013] e_exec([('select * from osp.osp_admin', 'EUT-waice')],[{}]) executed 
+[Wed Nov 20 15:39:13 2013] e_conn([('EUT-waice',)],[{'mode': 'noninteractive'}]) executed 
+[Wed Nov 20 16:30:35 2013] e_help([()],[{}]) executed 
+[Wed Nov 20 16:50:05 2013] exit_handler([(2, <frame object at 0x1c4d77a0>)],[{}]) executed 
+[Fri Nov 22 16:38:45 2013] e_list([()],[{}]) executed 
+[Fri Nov 22 16:39:01 2013] check_slave_stat([()],[{}]) executed 
+[Fri Nov 22 16:39:03 2013] e_list([()],[{}]) executed 
+[Fri Nov 22 16:39:04 2013] e_help([()],[{}]) executed 
+[Fri Nov 22 16:40:12 2013] check_slave_stat([()],[{}]) executed 
+[Fri Nov 22 16:40:15 2013] e_list([()],[{}]) executed 
+[Fri Nov 22 16:40:45 2013] exit_handler([(2, <frame object at 0x17f9f7a0>)],[{}]) executed 
+[Fri Nov 22 16:41:28 2013] e_list([()],[{}]) executed 
+[Fri Nov 22 16:41:29 2013] check_slave_stat([()],[{}]) executed 
+[Fri Nov 22 16:41:38 2013] check_slave_stat([()],[{}]) executed 
+[Fri Nov 22 16:41:40 2013] e_list([()],[{}]) executed 
+[Fri Nov 22 16:42:27 2013] check_slave_stat([()],[{}]) executed 
+[Fri Nov 22 16:42:27 2013] e_list([()],[{}]) executed 
+[Fri Nov 22 16:42:50 2013] e_exec([('show databases', 'EIM-waice')],[{}]) executed 
+[Fri Nov 22 16:42:50 2013] e_conn([('EIM-waice',)],[{'mode': 'noninteractive'}]) executed 
+[Fri Nov 22 16:43:05 2013] check_slave_stat([()],[{}]) executed 
+[Fri Nov 22 16:43:06 2013] e_list([()],[{}]) executed 
+[Fri Nov 22 16:43:08 2013] e_help([()],[{}]) executed 
+[Fri Nov 22 16:55:35 2013] e_list([()],[{}]) executed 
+[Fri Nov 22 17:07:30 2013] check_slave_stat([()],[{}]) executed 
+[Fri Nov 22 17:07:31 2013] e_list([()],[{}]) executed 
+[Fri Nov 22 17:07:32 2013] e_help([()],[{}]) executed 
+[Fri Nov 22 17:07:48 2013] e_conn([('show databases', 'EIM-waice')],[{}]) executed 
+[Fri Nov 22 17:07:56 2013] e_exec([('show databases', 'EIM-waice')],[{}]) executed 
+[Fri Nov 22 17:07:56 2013] e_conn([('EIM-waice',)],[{'mode': 'noninteractive'}]) executed 
+[Fri Nov 22 17:08:08 2013] check_slave_stat([()],[{}]) executed 
+[Fri Nov 22 17:08:09 2013] e_list([()],[{}]) executed 
+[Fri Nov 22 17:08:15 2013] e_exec([('show databases', 'EIM-waice')],[{}]) executed 
+[Fri Nov 22 17:08:15 2013] e_conn([('EIM-waice',)],[{'mode': 'noninteractive'}]) executed 
+[Fri Nov 22 17:54:21 2013] e_list([()],[{}]) executed 
+[Mon Nov 25 10:56:19 2013] e_list([()],[{}]) executed 
+[Mon Nov 25 11:01:25 2013] db_list([()],[{}]) executed 
+[Mon Nov 25 11:01:42 2013] db_list([()],[{}]) executed 
+[Mon Nov 25 11:03:09 2013] db_list([()],[{}]) executed 
+[Mon Nov 25 11:04:26 2013] db_list([()],[{}]) executed 
+[Mon Nov 25 11:04:50 2013] db_list([()],[{}]) executed 
+[Mon Nov 25 11:06:17 2013] db_list([()],[{}]) executed 
+[Mon Nov 25 11:09:02 2013] db_list([()],[{}]) executed 
+[Mon Nov 25 11:09:05 2013] e_list([()],[{}]) executed 
+[Mon Nov 25 11:12:39 2013] db_list([()],[{}]) executed 
+[Mon Nov 25 11:12:57 2013] db_list([()],[{}]) executed 
+[Mon Nov 25 11:12:57 2013] e_exec([('show databases', 'sk-waice-pgm')],[{}]) executed 
+[Mon Nov 25 11:12:57 2013] e_conn([('sk-waice-pgm',)],[{'mode': 'noninteractive'}]) executed 
+[Mon Nov 25 11:12:57 2013] e_exec([('show databases', 'efetion-dev-web')],[{}]) executed 
+[Mon Nov 25 11:12:57 2013] e_conn([('efetion-dev-web',)],[{'mode': 'noninteractive'}]) executed 
+[Mon Nov 25 11:12:57 2013] e_exec([('show databases', 'EUT-waice')],[{}]) executed 
+[Mon Nov 25 11:12:57 2013] e_conn([('EUT-waice',)],[{'mode': 'noninteractive'}]) executed 
+[Mon Nov 25 11:12:57 2013] e_exec([('show databases', 'EUT2.0-dev')],[{}]) executed 
+[Mon Nov 25 11:12:57 2013] e_conn([('EUT2.0-dev',)],[{'mode': 'noninteractive'}]) executed 
+[Mon Nov 25 11:12:57 2013] e_exec([('show databases', 'EIM-yanshi')],[{}]) executed 
+[Mon Nov 25 11:12:57 2013] e_conn([('EIM-yanshi',)],[{'mode': 'noninteractive'}]) executed 
+[Mon Nov 25 11:12:57 2013] e_exec([('show databases', 'fengtai-pgm-master')],[{}]) executed 
+[Mon Nov 25 11:12:57 2013] e_conn([('fengtai-pgm-master',)],[{'mode': 'noninteractive'}]) executed 
+[Mon Nov 25 11:12:57 2013] e_exec([('show databases', 'inner-dev-web')],[{}]) executed 
+[Mon Nov 25 11:12:57 2013] e_conn([('inner-dev-web',)],[{'mode': 'noninteractive'}]) executed 
+[Mon Nov 25 11:13:12 2013] db_list([()],[{}]) executed 
+[Mon Nov 25 11:13:12 2013] e_exec([('show databases', 'sk-waice-pgm')],[{}]) executed 
+[Mon Nov 25 11:13:12 2013] e_conn([('sk-waice-pgm',)],[{'mode': 'noninteractive'}]) executed 
+[Mon Nov 25 11:13:12 2013] e_exec([('show databases', 'efetion-dev-web')],[{}]) executed 
+[Mon Nov 25 11:13:12 2013] e_conn([('efetion-dev-web',)],[{'mode': 'noninteractive'}]) executed 
+[Mon Nov 25 11:13:13 2013] e_exec([('show databases', 'EUT-waice')],[{}]) executed 
+[Mon Nov 25 11:13:13 2013] e_conn([('EUT-waice',)],[{'mode': 'noninteractive'}]) executed 
+[Mon Nov 25 11:13:13 2013] e_exec([('show databases', 'EUT2.0-dev')],[{}]) executed 
+[Mon Nov 25 11:13:13 2013] e_conn([('EUT2.0-dev',)],[{'mode': 'noninteractive'}]) executed 
+[Mon Nov 25 11:13:13 2013] e_exec([('show databases', 'EIM-yanshi')],[{}]) executed 
+[Mon Nov 25 11:13:13 2013] e_conn([('EIM-yanshi',)],[{'mode': 'noninteractive'}]) executed 
+[Mon Nov 25 11:13:13 2013] e_exec([('show databases', 'fengtai-pgm-master')],[{}]) executed 
+[Mon Nov 25 11:13:13 2013] e_conn([('fengtai-pgm-master',)],[{'mode': 'noninteractive'}]) executed 
+[Mon Nov 25 11:13:13 2013] e_exec([('show databases', 'inner-dev-web')],[{}]) executed 
+[Mon Nov 25 11:13:13 2013] e_conn([('inner-dev-web',)],[{'mode': 'noninteractive'}]) executed 
+[Tue Dec 17 17:13:49 2013] check_slave_stat([()],[{}]) executed 
+[Tue Dec 17 17:13:50 2013] e_list([()],[{}]) executed 
+[Tue Dec 17 17:13:51 2013] e_help([()],[{}]) executed 
+[Wed Dec 18 10:46:36 2013] e_help([()],[{}]) executed 
+[Wed Dec 18 10:46:44 2013] e_list([()],[{}]) executed 
+[Wed Dec 18 10:47:49 2013] check_slave_stat([()],[{}]) executed 
+[Wed Dec 18 10:47:50 2013] e_list([()],[{}]) executed 
+[Wed Dec 18 10:48:24 2013] check_slave_stat([()],[{}]) executed 
+[Wed Dec 18 10:48:25 2013] check_mysql_version([()],[{}]) executed 
+[Wed Dec 18 10:48:25 2013] e_conn([('sk-waice-pgm',)],[{'mode': 'noninteractive'}]) executed 
+[Wed Dec 18 10:48:26 2013] e_conn([('efetion-dev-web',)],[{'mode': 'noninteractive'}]) executed 
+[Wed Dec 18 10:48:26 2013] e_conn([('sk-dev-pgm',)],[{'mode': 'noninteractive'}]) executed 
+[Wed Dec 18 10:48:26 2013] e_conn([('personal-test',)],[{'mode': 'noninteractive'}]) executed 
+[Wed Dec 18 10:48:26 2013] e_conn([('EUT-waice',)],[{'mode': 'noninteractive'}]) executed 
+[Wed Dec 18 10:48:26 2013] e_conn([('EUT2.0-dev',)],[{'mode': 'noninteractive'}]) executed 
+[Wed Dec 18 10:48:26 2013] e_conn([('EUT-yanshi',)],[{'mode': 'noninteractive'}]) executed 
+[Wed Dec 18 10:48:26 2013] e_conn([('EIM-yanshi',)],[{'mode': 'noninteractive'}]) executed 
+[Wed Dec 18 10:48:26 2013] e_conn([('fengtai-pgm-master',)],[{'mode': 'noninteractive'}]) executed 
+[Wed Dec 18 10:48:26 2013] e_conn([('sk-waice-web',)],[{'mode': 'noninteractive'}]) executed 
+[Wed Dec 18 10:48:26 2013] e_conn([('EIM-waice',)],[{'mode': 'noninteractive'}]) executed 
+[Wed Dec 18 10:48:26 2013] e_conn([('inner-dev-web',)],[{'mode': 'noninteractive'}]) executed 
+[Wed Dec 18 10:48:26 2013] e_conn([('sk-dev-web',)],[{'mode': 'noninteractive'}]) executed 
+[Wed Dec 18 10:48:26 2013] e_conn([('inner-dev-pgm',)],[{'mode': 'noninteractive'}]) executed 
+[Wed Dec 18 10:48:26 2013] e_conn([('efetion-dev-pgm',)],[{'mode': 'noninteractive'}]) executed 
+[Wed Dec 18 10:48:26 2013] e_conn([('fengtai-web-master',)],[{'mode': 'noninteractive'}]) executed 
+[Wed Dec 18 10:48:35 2013] e_help([()],[{}]) executed 
+[Wed Dec 18 10:49:26 2013] change_admin_pwd([(2000100002, 'aaa111', 'personal-test')],[{}]) executed 
+[Wed Dec 18 10:49:26 2013] e_exec([("update imop_db.imop_admin set md5pwd = md5('aaa111'),errlogincount = 0 where corpcode = 2000100002 and adminname = 'admins';", 'personal-test')],[{}]) executed 
+[Wed Dec 18 10:49:26 2013] e_conn([('personal-test',)],[{'mode': 'noninteractive'}]) executed 
+[Wed Dec 18 10:50:40 2013] change_admin_pwd([(2000100002, 'aaaa1111', 'personal-test')],[{}]) executed 
+[Wed Dec 18 10:50:40 2013] e_exec([("update imop_db.imop_admin set md5pwd = md5('aaaa1111'),errlogincount = 0 where corpcode = 2000100002 and adminname = 'admins';", 'personal-test')],[{}]) executed 
+[Wed Dec 18 10:50:40 2013] e_conn([('personal-test',)],[{'mode': 'noninteractive'}]) executed 
+[Wed Dec 18 10:50:49 2013] change_admin_pwd([(2000100002, 'aaa111', 'personal-test')],[{}]) executed 
+[Wed Dec 18 10:50:49 2013] e_exec([("update imop_db.imop_admin set md5pwd = md5('aaa111'),errlogincount = 0 where corpcode = 2000100002 and adminname = 'admins';", 'personal-test')],[{}]) executed 
+[Wed Dec 18 10:50:49 2013] e_conn([('personal-test',)],[{'mode': 'noninteractive'}]) executed 

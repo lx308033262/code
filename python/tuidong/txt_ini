@@ -1,0 +1,20 @@
+#!/usr/bin/python
+txt="mod.txt"
+ini="mod.ini"
+from ConfigParser import ConfigParser
+cf=ConfigParser()
+cf.read(ini)
+f=open(txt,"r")
+for i in f:
+	body=i.strip("\n").split(" ")
+	if cf.has_section(body[0]):
+		pass
+	else:
+		cf.add_section(body[0])
+	cf.set(body[0],"ip",body[1])
+	cf.set(body[0],"path",body[2])
+	cf.set(body[0],"type",body[3])
+	if body[3] == "java":
+		cf.set(body[0],"tomcat_path",body[4])
+cf.write(open(ini,"w"))
+f.close()

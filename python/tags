@@ -1,0 +1,16 @@
+!_TAG_FILE_FORMAT	2	/extended format; --format=1 will not append ;" to lines/
+!_TAG_FILE_SORTED	1	/0=unsorted, 1=sorted, 2=foldcase/
+!_TAG_PROGRAM_AUTHOR	Darren Hiebert	/dhiebert@users.sourceforge.net/
+!_TAG_PROGRAM_NAME	Exuberant Ctags	//
+!_TAG_PROGRAM_URL	http://ctags.sourceforge.net	/official site/
+!_TAG_PROGRAM_VERSION	5.8	//
+TODAY	check_ok.py	/^TODAY = time.strftime("%Y-%m-%d",time.localtime(time.time())) $/;"	v
+connect	check_ok.py	/^def connect(ip,user = "entroot",passwd = "!@#entfetion0$%^",port = 22):$/;"	f
+execute_command	check_ok.py	/^def execute_command(command):$/;"	f
+fw_list	check_ok.py	/^fw_list = ["172.16.4.139", "172.16.4.140"]$/;"	v
+inner_fw_list	check_ok.py	/^inner_fw_list = ["172.16.4.135", "172.16.4.136"]$/;"	v
+list_list	check_ok.py	/^list_list=[  "inner_fw_list", "fw_list", "switch_list"]$/;"	v
+os	check_ok.py	/^import os$/;"	i
+second_password	check_ok.py	/^second_password = "!#%fetion0@$^"$/;"	v
+switch_list	check_ok.py	/^switch_list = ["172.16.4.133", "172.16.4.134", "172.16.4.137", "172.16.4.138", "172.16.4.147", "172.16.4.148", "172.16.4.151", "172.16.4.152", "172.16.4.153", "172.16.4.154","172.16.4.141", "172.16.4.142", "172.16.4.129", "172.16.4.130", "172.16.4.145", "172.16.4.146"]$/;"	v
+time	check_ok.py	/^import time$/;"	i

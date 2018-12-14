@@ -1,0 +1,16 @@
+mobileservice 122.11.49.130 /home/cmcc/www/mobileservice php
+DServer 122.11.49.130 /home/cmcc/c/mediaserver c
+msgserver 122.11.49.130 /home/cmcc/c/msgserver c
+smsservice 122.11.49.131 /home/cmcc/webhome/smsservice java /home/cmcc/webapp/smsservice
+oauthserver 122.11.49.131 /home/cmcc/c/oauthserver c
+openservice 122.11.49.131 /home/cmcc/webhome/openservice java /home/cmcc/webapp/openservice
+taowap 122.11.49.131 /home/cmcc/webhome/wap java /home/cmcc/webapp/wap
+sso_ims 122.11.49.131 /home/cmcc/webhome/sso java /home/cmcc/webapp/sso
+mop 122.11.49.134 /home/cmcc/webhome/mop java /home/cmcc/webapp/mop
+ipay 122.11.49.134 /home/cmcc/webhome/ipay java /home/cmcc/webapp/ipay
+adapter_service 122.11.49.134 /home/cmcc/www/adapter_server php
+mopreport 122.11.49.134 /home/cmcc/www/mop_report php
+www 122.11.49.134 /home/cmcc/www/www php
+mediaservice 122.11.49.130 /home/cmcc/www/media_server php
+imageserver 122.11.49.130 /home/cmcc/c/imageserver c
+waptui 122.11.49.134 /home/cmcc/webhome/waptui java /home/cmcc/webapp/waptui

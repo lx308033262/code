@@ -1,0 +1,66 @@
+[Mon Dec  1 13:19:24 2014] test_update([(<__main__.haixuan instance at 0x28d2ea8>,)],[{}]) executed 
+[Mon Dec  1 13:19:24 2014] scp_source_package_to_local([(<__main__.haixuan instance at 0x28d2ea8>,)],[{}]) executed 
+[Mon Dec  1 13:19:26 2014] mv_upload_file_to_backup_dir([(<__main__.haixuan instance at 0x28d2ea8>,)],[{}]) executed 
+[Mon Dec  1 13:19:53 2014] update([(<__main__.haixuan instance at 0x126dea8>,)],[{}]) executed 
+[Mon Dec  1 13:19:53 2014] scp_source_package_to_local([(<__main__.haixuan instance at 0x126dea8>,)],[{}]) executed 
+[Mon Dec  1 13:19:53 2014] mv_upload_file_to_backup_dir([(<__main__.haixuan instance at 0x126dea8>,)],[{}]) executed 
+[Mon Dec  1 13:19:53 2014] stop_program([(<__main__.haixuan instance at 0x126dea8>,)],[{}]) executed 
+[Mon Dec  1 13:19:53 2014] run_command([('pid=`ps aux|grep presence|grep -v grep|awk \'{print $2}\'`;[ -n "$pid" ] && kill -9 $pid ',)],[{}]) executed 
+[Mon Dec  1 13:19:53 2014] run_command([('[ -d /usr/local/appim/presence ] || mkdir -p /usr/local/appim/presence',)],[{}]) executed 
+[Mon Dec  1 13:19:55 2014] start_program([(<__main__.haixuan instance at 0x126dea8>,)],[{}]) executed 
+[Mon Dec  1 13:19:55 2014] run_command([('cd /usr/local/appim/presence ;find ./bin  -path "*bak" -prune -o  -type f -exec test -x {} \\; -a -exec ls {} \\;|xargs -I a nohup a>nohup.out 2>&1 &',)],[{}]) executed 
+[Tue Dec  2 15:18:42 2014] test_update([(<__main__.haixuan instance at 0xd58f38>,)],[{}]) executed 
+[Tue Dec  2 15:18:42 2014] scp_source_package_to_local([(<__main__.haixuan instance at 0xd58f38>,)],[{}]) executed 
+[Tue Dec  2 15:18:45 2014] mv_upload_file_to_backup_dir([(<__main__.haixuan instance at 0xd58f38>,)],[{}]) executed 
+[Wed Dec  3 10:24:37 2014] test_update([(<__main__.haixuan instance at 0x27bfef0>,)],[{}]) executed 
+[Wed Dec  3 10:24:37 2014] scp_source_package_to_local([(<__main__.haixuan instance at 0x27bfef0>,)],[{}]) executed 
+[Wed Dec  3 10:24:40 2014] mv_upload_file_to_backup_dir([(<__main__.haixuan instance at 0x27bfef0>,)],[{}]) executed 
+[Wed Dec  3 10:28:44 2014] test_update([(<__main__.haixuan instance at 0x1455ef0>,)],[{}]) executed 
+[Wed Dec  3 10:28:44 2014] scp_source_package_to_local([(<__main__.haixuan instance at 0x1455ef0>,)],[{}]) executed 
+[Wed Dec  3 10:28:47 2014] mv_upload_file_to_backup_dir([(<__main__.haixuan instance at 0x1455ef0>,)],[{}]) executed 
+[Wed Dec  3 10:32:35 2014] test_update([(<__main__.haixuan instance at 0x1930ef0>,)],[{}]) executed 
+[Wed Dec  3 10:32:35 2014] scp_source_package_to_local([(<__main__.haixuan instance at 0x1930ef0>,)],[{}]) executed 
+[Wed Dec  3 10:32:37 2014] mv_upload_file_to_backup_dir([(<__main__.haixuan instance at 0x1930ef0>,)],[{}]) executed 
+[Wed Dec  3 10:37:55 2014] test_update([(<__main__.haixuan instance at 0x160cd88>,)],[{}]) executed 
+[Wed Dec  3 10:37:55 2014] scp_source_package_to_local([(<__main__.haixuan instance at 0x160cd88>,)],[{}]) executed 
+[Wed Dec  3 10:37:55 2014] run_command([('cd /usr/local/src/snsServer/;echo $(ls -rt *.jar|tail -1)',)],[{'host': '10.0.16.126', 'password': '!@#$%^&*()', 'stdout': 'file', 'user': 'root', 'port': 22}]) executed 
+[Wed Dec  3 10:37:55 2014] mv_upload_file_to_backup_dir([(<__main__.haixuan instance at 0x160cd88>,)],[{}]) executed 
+[Sat Aug  8 19:10:18 2015] test_update([(<__main__.haixuan instance at 0x277eab8>,)],[{}]) executed 
+[Sat Aug  8 19:10:18 2015] scp_source_package_to_local([(<__main__.haixuan instance at 0x277eab8>,)],[{}]) executed 
+[Sat Aug  8 19:10:20 2015] mv_upload_file_to_backup_dir([(<__main__.haixuan instance at 0x277eab8>,)],[{}]) executed 
+[Sat Aug  8 19:10:27 2015] update([(<__main__.haixuan instance at 0x1c74ab8>,)],[{}]) executed 
+[Sat Aug  8 19:10:27 2015] scp_source_package_to_local([(<__main__.haixuan instance at 0x1c74ab8>,)],[{}]) executed 
+[Sat Aug  8 19:10:27 2015] mv_upload_file_to_backup_dir([(<__main__.haixuan instance at 0x1c74ab8>,)],[{}]) executed 
+[Sat Aug  8 19:10:27 2015] stop_program([(<__main__.haixuan instance at 0x1c74ab8>,)],[{}]) executed 
+[Sat Aug  8 19:10:27 2015] run_command([('pid=`ps aux|grep /usr/local/tomcat|grep -v grep|awk \'{print $2}\'`;[ -n "$pid" ] && kill -9 $pid ; rm -rf /usr/local/tomcat/work/Catalina/',)],[{}]) executed 
+[Sat Aug  8 19:10:28 2015] run_command([('[ -d /usr/local/tomcat/webapps/v3 ] || mkdir -p /usr/local/tomcat/webapps/v3',)],[{}]) executed 
+[Sat Aug  8 19:10:33 2015] start_program([(<__main__.haixuan instance at 0x1c74ab8>,)],[{}]) executed 
+[Sat Aug  8 19:10:33 2015] run_command([('source /etc/profile ; /usr/local/tomcat/bin/startup.sh',)],[{}]) executed 
+[Sat Aug  8 19:10:37 2015] update([(<__main__.haixuan instance at 0x16bfab8>,)],[{}]) executed 
+[Sat Aug  8 19:10:37 2015] scp_source_package_to_local([(<__main__.haixuan instance at 0x16bfab8>,)],[{}]) executed 
+[Sat Aug  8 19:10:37 2015] mv_upload_file_to_backup_dir([(<__main__.haixuan instance at 0x16bfab8>,)],[{}]) executed 
+[Sat Aug  8 19:10:37 2015] stop_program([(<__main__.haixuan instance at 0x16bfab8>,)],[{}]) executed 
+[Sat Aug  8 19:10:37 2015] run_command([('pid=`ps aux|grep /usr/local/tomcat|grep -v grep|awk \'{print $2}\'`;[ -n "$pid" ] && kill -9 $pid ; rm -rf /usr/local/tomcat/work/Catalina/',)],[{}]) executed 
+[Sat Aug  8 19:10:37 2015] run_command([('[ -d /usr/local/tomcat/webapps/v3 ] || mkdir -p /usr/local/tomcat/webapps/v3',)],[{}]) executed 
+[Sat Aug  8 19:10:41 2015] start_program([(<__main__.haixuan instance at 0x16bfab8>,)],[{}]) executed 
+[Sat Aug  8 19:10:41 2015] run_command([('source /etc/profile ; /usr/local/tomcat/bin/startup.sh',)],[{}]) executed 
+[Thu Aug 20 14:54:05 2015] test_update([(<__main__.haixuan instance at 0x203ba70>,)],[{}]) executed 
+[Thu Aug 20 14:54:05 2015] scp_source_package_to_local([(<__main__.haixuan instance at 0x203ba70>,)],[{}]) executed 
+[Thu Aug 20 14:54:05 2015] run_command([('cd /usr/local/match/libs/;echo $(ls -rt *.jar|tail -1)',)],[{'host': '10.0.0.13', 'password': '123456', 'stdout': 'file', 'user': 'root', 'port': 22}]) executed 
+[Thu Aug 20 14:54:06 2015] mv_upload_file_to_backup_dir([(<__main__.haixuan instance at 0x203ba70>,)],[{}]) executed 
+[Thu Aug 20 14:54:21 2015] update([(<__main__.haixuan instance at 0x1663a70>,)],[{}]) executed 
+[Thu Aug 20 14:54:21 2015] scp_source_package_to_local([(<__main__.haixuan instance at 0x1663a70>,)],[{}]) executed 
+[Thu Aug 20 14:54:21 2015] mv_upload_file_to_backup_dir([(<__main__.haixuan instance at 0x1663a70>,)],[{}]) executed 
+[Thu Aug 20 14:54:21 2015] stop_program([(<__main__.haixuan instance at 0x1663a70>,)],[{}]) executed 
+[Thu Aug 20 14:54:21 2015] run_command([('pid=`ps aux|grep match|grep -v grep|awk \'{print $2}\'`;[ -n "$pid" ] && kill -9 $pid ',)],[{}]) executed 
+[Thu Aug 20 14:54:21 2015] run_command([('[ -d /usr/local/match/libs/ ] || mkdir -p /usr/local/match/libs/',)],[{}]) executed 
+[Thu Aug 20 14:54:23 2015] start_program([(<__main__.haixuan instance at 0x1663a70>,)],[{}]) executed 
+[Thu Aug 20 14:54:23 2015] run_command([('cd /usr/local/match/bin && sh service.sh start',)],[{}]) executed 
+[Thu Aug 20 19:25:06 2015] update([(<__main__.haixuan instance at 0x1493b48>,)],[{}]) executed 
+[Thu Aug 20 19:25:06 2015] scp_source_package_to_local([(<__main__.haixuan instance at 0x1493b48>,)],[{}]) executed 
+[Thu Aug 20 19:25:08 2015] mv_upload_file_to_backup_dir([(<__main__.haixuan instance at 0x1493b48>,)],[{}]) executed 
+[Thu Aug 20 19:25:08 2015] stop_program([(<__main__.haixuan instance at 0x1493b48>,)],[{}]) executed 
+[Thu Aug 20 19:25:08 2015] run_command([('pid=`ps aux|grep /usr/local/tomcat|grep -v grep|awk \'{print $2}\'`;[ -n "$pid" ] && kill -9 $pid ; rm -rf /usr/local/tomcat/work/Catalina/',)],[{}]) executed 
+[Thu Aug 20 19:25:09 2015] run_command([('[ -d /usr/local/tomcat/webapps/v3 ] || mkdir -p /usr/local/tomcat/webapps/v3',)],[{}]) executed 
+[Thu Aug 20 19:25:10 2015] start_program([(<__main__.haixuan instance at 0x1493b48>,)],[{}]) executed 
+[Thu Aug 20 19:25:10 2015] run_command([('source /etc/profile ; /usr/local/tomcat/bin/startup.sh',)],[{}]) executed 
